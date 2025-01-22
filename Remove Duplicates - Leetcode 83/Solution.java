@@ -18,7 +18,6 @@ class ListNode {
     
 }
 
-
 public class Solution{
     public ListNode deleteDuplicates(ListNode list1, ListNode list2){
         ListNode head = null;
