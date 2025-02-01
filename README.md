@@ -19,8 +19,6 @@ The solutions in this repository are categorized based on the following topics:
 - **Hashing**
 - **Greedy Algorithms**
 
-Each folder contains solutions to problems related to the respective topic.
-
 ## Languages Used
 I primarily solve problems in the following programming languages:
 
@@ -36,7 +34,7 @@ I primarily solve problems in the following programming languages:
 3. Open the solution file and review the approach used.
 
 ## Progress Tracking
-I aim to solve a variety of problems daily to enhance my understanding of algorithms and problem-solving techniques. Progress is documented and updated regularly.
+Progress is documented and updated regularly.
 
 ---
 
