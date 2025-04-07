@@ -2,9 +2,6 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems as I progress through learning **Data Structures and Algorithms (DSA)**.
 
-## About
-I am currently in the process of improving my problem-solving skills by tackling LeetCode challenges across different topics in DSA. The goal of this repository is to document my learning journey, track progress, and provide solutions for future reference.
-
 ## Topics Covered
 The solutions in this repository are categorized based on the following topics:
 
@@ -20,7 +17,7 @@ The solutions in this repository are categorized based on the following topics:
 - **Greedy Algorithms**
 
 ## Languages Used
-I primarily solve problems in the following programming languages:
+Primarily used languages to solve problems:
 
 - **Python**
 - **Java**
